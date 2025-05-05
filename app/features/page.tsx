@@ -17,56 +17,56 @@ export default function FeaturesPage() {
       title: "AR Hikaye Görevleri",
       description:
         "Uçuş rotanıza dayalı, Hezarfen'in dünyasını canlandıran artırılmış gerçeklik öğeleriyle interaktif görevler. Çocuklar, üzerinden uçtukları bölgelerin simgelerini, coğrafi özelliklerini ve kültürel unsurlarını keşfedebilirler.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/resimler/ozellikler/argrv.jpeg",
     },
     {
       icon: <LucideFlask size={32} className="text-purple-500" />,
       title: "STEAM Laboratuvarı",
       description:
         "Bilim, Teknoloji, Mühendislik, Sanat ve Matematik'i kapsayan eğlenceli deneyler ve zorluklar. Farklı yaş gruplarına uygun interaktif oyunlar ve simülasyonlar aracılığıyla aerodinamik, hava durumu modelleri ve havacılık fiziği hakkında bilgi edinin.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/resimler/ozellikler/stmlb.jpeg",
     },
     {
       icon: <LucideGamepad2 size={32} className="text-green-500" />,
       title: "Uçuş Simülatörü",
       description:
         "Havacılığın temellerini öğreten çocuk dostu bir uçuş simülatörü. Sanal bir uçağın kontrolünü ele alın, uçuş aletlerini anlayın ve uçuş fiziğini erişilebilir bir şekilde öğrenirken pilotluk yapmanın keyfini yaşayın.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/resimler/ozellikler/smlt.jpeg",
     },
     {
       icon: <LucideShield size={32} className="text-red-500" />,
       title: "Ebeveyn Modu",
       description:
         "İçeriği izlemenize, öğrenme ilerlemesini takip etmenize ve zaman sınırları belirlemenize olanak tanıyan kapsamlı ebeveyn kontrolleri. Çocuğunuzun uçuş sırasında neler öğrendiği ve başardığı hakkında raporlar alın, takip etkinlikleri için önerilerle birlikte.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/resimler/ozellikler/ebevyn.jpeg",
     },
     {
       icon: <LucideZap size={32} className="text-amber-500" />,
       title: "Kişiselleştirilmiş Maceralar",
       description:
         "Çocuğunuzun yaşına, ilgi alanlarına ve öğrenme hızına uyum sağlayan içerik. Uygulama, çocukları yolculuk boyunca meşgul tutacak özelleştirilmiş zorluklar ve bilgiler sunmak için etkileşimlerden öğrenir.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/resimler/ozellikler/mcrlr.jpeg",
     },
     {
       icon: <LucideGlobe2 size={32} className="text-indigo-500" />,
       title: "Kültürel Keşif",
       description:
         "Varış noktanızın tarihi, gelenekleri ve simgeleri hakkında bilgi edinin. Çocuklar, Hezarfen'in gözünden farklı kültürler hakkında ilginç gerçekleri keşfeder ve seyahat deneyimleri için eğlenceli bir şekilde hazırlanırlar.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/resimler/kulutreldest.png",
     },
     {
       icon: <LucideAward size={32} className="text-teal-500" />,
       title: "Dijital Rozetler ve Ödüller",
       description:
         "Görevleri ve zorlukları tamamladıkça başarı rozetleri toplayın ve özel içeriklerin kilidini açın. Çocuklar SkyPals Kaşif sertifikaları kazanabilir ve birden fazla uçuş boyunca ilerlemelerini takip edebilirler.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/resimler/ozellikler/rzt.jpeg",
     },
     {
       icon: <LucideUsers size={32} className="text-pink-500" />,
       title: "Çok Oyunculu Mod",
       description:
         "İşbirlikçi öğrenme maceraları için aynı uçuştaki kardeşler veya arkadaşlarla bağlantı kurun. Çocuklar bu sosyal öğrenme deneyiminde bulmacaları çözmek, görevleri tamamlamak ve keşifleri paylaşmak için birlikte çalışabilirler.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/resimler/ozellikler/WhatsApp Image 2025-04-13 at 20.38.31.jpeg",
     },
   ]
 
